@@ -1,4 +1,5 @@
-# mac-setup
+# Setup notes
+
 ## Homebrew
 
 1. Install homebrew: [instructions](https://brew.sh/)
